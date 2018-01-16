@@ -1,0 +1,4 @@
+.,English
+quest.name,Heirs of Blood - Act 1 - Siege of Skytower
+quest.description,Heirs of Blood - Siege of Skytower
+quest.authors,Mick
