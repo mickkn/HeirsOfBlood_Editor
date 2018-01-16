@@ -1,0 +1,3 @@
+.,English
+quest.name,Heirs of Blood - Act 1 - Rellegar's Rest
+quest.description,Quest 1...
