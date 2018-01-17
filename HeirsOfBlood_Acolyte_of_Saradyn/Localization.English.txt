@@ -1,0 +1,69 @@
+.,English
+quest.name,Heirs of Blood - Intro - Acolyte of Saradyn
+quest.description,Intro Quest for Heirs of Blood
+quest.authors,Mick
+EventPlaceTiles.button1,Continue
+EventPlaceHeroes.button1,Continue
+EventPlaceGoblins.button1,Continue
+SpawnGoblins.button1,Continue
+EventPlaceHeroes.text,Place Heroes adjacent to the indicated space.
+EventPlaceSearch2P1.button1,Continue
+EventPlaceTiles.text,Place the Entrance, 4A, 5A, 8A, 9A, 11A, 21A, 2 extensions and 1 end cap.
+EventPlaceBargs.text,Place the Barghest group on 4A. Each Barghest gets +2 to its health.
+EventPlaceBargs.button1,Continue
+SpawnBarghest.button1,Continue
+EventPlaceGoblins.text,Place the Goblin Archer group on 5A.
+EventPlaceSearch2P2.text,Place 1 search tokens as shown.
+EventPlaceSearch3P.text,Place 1 search token as shown.
+EventPlaceSearch3P.button1,Continue
+EventPlaceSearch4P.button1,Continue
+SpawnBarghest.uniquetitle,SpawnBarghest
+SpawnBarghest.uniquetext,Each Barghest gets +2 to health.
+EventQuestIntro.text,You've been tasked with defending a caravan of monks and then their monastery when they arrive. The problem is, they left town the day before you accepted the job. It is nearly noon on the second day when you finally catch up to them. \n\nA young boy stands motionless on the path. He holds one hand out, casting a blue ray of light toward the forest to your left. In his other hand he grips a serrated dagger dripping with blood.\n\nThe familiar snap of bow strings echoes through the trees and the boy dives behind the cover of a disabled wagon. You sprint forward and call out as primitive arrows whistle past him. His blue eyes lock onto yours, and he scrambles out of cover as a rasping howl fills the air. "Goblin ambush! \n\nThe others are wounded." he yells, pointing farther down the path. You pull him back as another wave of arrows hisses through the air, but he breaks free from your grip. "No. We have to save the others. "His eyes shine with equal parts excitement and dread. "The goblins will run if you kill their dogs. \n\nCome on, "he pleads and runs back toward the caravan, ducking and weaving to avoid the continuous spray of arrows.
+EventIntro1.button1,Continue
+EventObjective.text,Objective: Protect the Monks, slay the monsters.
+EventPlaceSearch2P1.text,Place 1 search tokens as shown.
+TokenSearch2P1.button1,Search
+EventPlaceSearch2P2.button1,Continue
+EventPlaceSearch4P.text,Place 1 search tokens as shown.
+EventObjective.button1,Continue
+EventVictory.button1,Continue
+EventVictory.text,The goblins screech with terror and loose a final volley before scrambling deeper into the forest. Flying far from their mark, the arrows disappear into the canopy high above your head. The area grows quiet. \n\nThe wagon is beyond repair and much has been stolen. The clergy gather the remaining valuables and secure them to their backs, intending to carry everything the rest of the way. You make room in your packs and share the burden.
+EventSpecialRules.text,Use this token as the Acolyte. The hero escorting the Acolyte applies -1 to his Speed. \n\nEach time the hero escorting the acolyte ends his turn adjacent to 1 or more wounded clergy, that hero chooses 1 adjacent wounded clergy and places that token in the heroes' play area.\n\nAs an action, the hero escorting the acolyte may give the white objective token to an adjacent hero.
+EventSpecialRules.button1,Start Game
+EventPlaceClergy2P.text,Place 2 wounded clergy tokens as shown.
+EventPlaceClergy2P.button1,Continue
+EventPlaceClergy3P.button1,Continue
+EventPlaceClergy3P.text,Place 3 wounded clergy tokens as shown.
+EventPlaceClergy4P.text,Place 4 wounded clergy tokens as shown.
+EventPlaceClergy4P.button1,Continue
+EventReinforcement.button1,Continue
+EventReinforcement.text,Place 2 Goblin Archers on 4A.
+EventGoblinCheck.text,Is there any Goblin Archers on 9A?
+EventGoblinCheck.button1,Yes
+EventGoblinCheck.button2,No
+EventOverlordWin.text,You are forced to take up a defensive position away from the wagon. By the time you rally a few brave members of the clergy for a counterattack, your enemy has disappeared. You help the survivors sift through the wreckage for the next few minutes, but everything of value is gone.
+EventOverlordWin.button1,Continue
+EventWipeTheBoard.text,You shoulder your packs and turn to find the boy staring up at you with wonder and adoration. "You're amazing, "he whisper's, "take me with you. "His eyes shift to your weapon. "Can I hold it?". \n\n"Tyrus! No, you cannot," a priest chides. Tyrus sighs, throwing his head back and rolling his eyes. \n\n"Maybe next time, kid, "you say, suppressing a smile. The boy remains at your side for the next few hours, maintaining a quick pace to keep up. His endless need for conversation is seasoned with insightful questions and exaggerated stories, allowing the hours to pass quickly.\n\nAs the sun retires beyond the Cliffs of Saradyn, you are met on the road by Helena, an elder-priestess from the monastery. She invites you to join her army - a handful of scouts and militia - based in the center of the valley. You speak with Helena into the early hours of the morning about the needs of the monastry, the darkness that threatens it, and what next few days may bring.
+EventWipeTheBoard.button1,Continue
+EventQuestIntro.button1,Continue
+EventIntro2.button1,Continue
+EventIntro3.button1,Begin Quest
+EventIntro2.text,That's a problem."The priest turned and signaled for the only remaining server to bring him a drink. "The caravan heads out tomorrow. We have the weapons we need, but a few more bodies would have been nice. Where's the boy?"\n\nThe woman paused, waiting for the server to deliver the drink. "1n myroom, asleep. Will you take him tonight?"\n\n"No, I'll swing by tomorrow first thing. He's safer with you." The man ran his finger around the mouth of his tankard. "I wish you'd come. I feel like we're playing into the witch's hand on this one, bringing the boy along."\n\n"Helena wants him close, in case... he is needed."\n\n"He's only a boy though. He'll be no good against a sorceress-a vampiress, no less.
+EventIntro1.text,The party of adventurers made ready to leave. Their celebration at the corner table was winding down after several long hours. They drained their tankards, sang an incomprehensible verse they had written for themselves, and woke their dwarven companion who slumbered beneath his chair.\n\nAs the room grew quiet, a cloaked figure slid into the empty table, extinguishing the stout candle that flickered atop it. In the darkness the shadow waited, unmoving. Eventually, the only other patrons were those that had collapsed at their tables. The door creaked, admitting a hoodedpriest. He scanned the room and then made his way to the corner.\n\n" Sorry to keep you waiting , " he huffed as he lowered himself on to a stool. "Lots to do still. Did youfind anyone to help us?"\n\n"I did not trucst this group," the cloaked figure said. She leaned forward, lowering her voice but causing her golden hair to escape the hood. "They wouldn't do it for the money you're offering."
+EventIntro3.text,You shouldn't speak the name of such creatures aloud." They both remained quiet for a time, vigilantly watching the shadows. "Plus, you'd be surprised. I've taught him a few tricks."\n\nThe man shot her a look. "Well, I don't know if that was a good idea..." he muttered.\n\n"Time will tell." The woman rose from the table. "I've lingered too long. I will remain in town and find a group to send after you. There's got to be a few good people left around here. "She paused, making sure no one was watching, then turned and embraced the old priest. "Good night, dad. Stay safe.
+EventSearch2P1.text,You find X gold!\nDiscard this token and draw a Search card.
+TokenSearch3.button1,Search
+TokenSearch4.button1,Search
+EventSearch2P1.button1,Continue
+EventSearch2P2.text,You find X gold!\nDiscard this token and draw a Search card.
+EventSearch2P2.button1,Continue
+EventSearch3P.text,You find X gold!\nDiscard this token and draw a Search card.
+EventSearch3P.button1,Continue
+EventSearch4P.text,You find X gold!\nDiscard this token and draw a Search card.
+EventSearch4P.button1,Continue
+TokenSearch2P2.button1,Search
+TokenSearch3.text,The ground is mounded slightly as if the earth was recently overturned.
+TokenSearch4.text,A brick in the wall seems loose.
+TokenSearch2P1.text,A pouch is stock under the broken wagon.
+TokenSearch2P2.text,The ground is mounded slightly as if the earth was recently overturned.
