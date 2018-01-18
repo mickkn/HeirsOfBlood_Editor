@@ -23,7 +23,6 @@ Event1_Objective.button1,Start Game
 Event1_PlaceObjToken.text,Collect 4 blue and 1 red objective token and place them random and secretly as shown.
 Event1_PlaceObjToken.button1,Continue
 EventDefeatSplig.button1,Continue
-Event1_Reinforcement.button1,Continue
 Event1_PlaceTiles.text,Place tiles 3A, 6A, 12A, 18A, 21A, 1 Entrance, 1 Exit, 1 locked door and 1 End cap as shown.
 Spawn1_Zombie.button1,Continue
 Spawn1_Splig.text,Place Splig on the indicated space.
@@ -33,7 +32,7 @@ Spawn1_Merriod.text,Place a Merriod group on 12A.
 Spawn1_FleshMoulder.button1,Continue
 Spawn1_Zombie.text,Place a Zombie group on 12A.
 Event1_PlaceSearch2P2.text,Place 1 search token as shown.
-Token1_Search2P1.button1,Continue
+Token1_Search2P1.button1,Search
 Event1_PlaceSearch3P.button1,Continue
 Event1_PlaceSearch3P.text,Place 1 search token as shown.
 Event1_PlaceSearch4P.button1,Continue
@@ -63,13 +62,29 @@ Token1_Obj4.button2,Red
 Token1_Obj5.button2,Red
 EventDefeatSplig.text,Splig falls to one knee, breathing heavily, "You haven't defeated me-"he pauses to catch his breath, "Splig, King of All Goblins. I'll be back!" He pushes the nearest goblin toward you as a distraction, then turns and runs.
 EventVictory.text,The goblins are desperate to stop your progress, but they fall quickly before your onslaught. You approach the door with the key and enter the dark ruins.
-Event1_Reinforcement.text,Place 1 Goblin Archer on the entrance, respecting group limits.
 EventVictory.button1,Continue
 EventWhipeTheBoard.text,Get ready for next encounter.
 EventWhipeTheBoard.button1,Begin next encounter
-EventOverlordWin.text,Defeat: Goblins appear from every direction to halt your progress. You, clothes become soiled with the creatures' blood and still they come. At last, you hack your way to the door and enter the dank ruins.
+EventOverlordWin.text,Goblins appear from every direction to halt your progress. You, clothes become soiled with the creatures' blood and still they come. At last, you hack your way to the door and enter the dank ruins.
 EventOverlordWin.button1,Continue
 EventNoMorale.text,Defeat!
 EventNoMorale.button1,Continue
 EventDefeatFatique.button1,Continue
 EventDefeatFatique.text,Defeat!
+Token1_Search2P1.text,In the high grass you spot a bag.
+Token1_Search3P.text,In the mud you glimpse something shiny.
+Token1_Search3P.button1,Search
+Token1_Search2P2.text,You spot a  small box in the grass.
+Token1_Search2P2.button1,Search
+Token1_Search4P.text,You spot a buried bag in some wet mud.
+Token1_Search4P.button1,Search
+EventTakeSearch4P.button1,Continue
+EventTakeSearch2P2.text,Draw a search card and discard this token.
+EventTakeSearch4P.text,Draw a search card and discard this token.
+EventTakeSearch2P2.button1,Continue
+EventTakeSearch3P.text,Draw a search card and discard this token.
+EventTakeSearch3P.button1,Continue
+EventTakeSearch2P1.text,Draw a search card and discard this token.
+EventTakeSearch2P1.button1,Continue
+Event1_Reinforcement.button1,Continue
+Event1_Reinforcement.text,Place 1 Goblin Archer on the entrance, respecting group limits.

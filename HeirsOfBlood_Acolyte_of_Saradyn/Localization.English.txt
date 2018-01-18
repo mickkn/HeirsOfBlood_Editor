@@ -1,6 +1,6 @@
 .,English
 quest.name,Heirs of Blood - Campaign
-quest.description,Heirs of Blood Campaign Project\n--------- Act I ---------\nIntro Quest - 90%\nRellegar's Rest - 20%\nSiege of Skytower - 0%\nBlood Will Tell - 0%\nThe Baron Returns - 0%\nArchive of Arrizon - 0%\nRise of Urthko - 0%\nCaladen's Crossing - 0%\nFrom the Wreckage - 0%\nSaradyn in Flames - 0%\n--------- Act II ---------\nArmy of Dal'Zunm 0%\nPrison of Khinn 0%\nLord of Flame 0%\nDead or Drowning 0%\nRite of the Red Dawn 0%\nShadowfall Mountain 0%\nEdge of Down 0%\nPiercing Darkness 0%\n--------- Finale ---------\nBlood and Betrayal 0%
+quest.description,Heirs of Blood Campaign Project\n--------- Act I ---------\nIntro Quest - 90%\nRellegar's Rest - 45%\nSiege of Skytower - 0%\nBlood Will Tell - 0%\nThe Baron Returns - 0%\nArchive of Arrizon - 0%\nRise of Urthko - 0%\nCaladen's Crossing - 0%\nFrom the Wreckage - 0%\nSaradyn in Flames - 0%\n--------- Act II ---------\nArmy of Dal'Zunm 0%\nPrison of Khinn 0%\nLord of Flame 0%\nDead or Drowning 0%\nRite of the Red Dawn 0%\nShadowfall Mountain 0%\nEdge of Down 0%\nPiercing Darkness 0%\n--------- Finale ---------\nBlood and Betrayal 0%
 quest.authors,Mick
 EventPlaceTiles.button1,Continue
 EventPlaceHeroes.button1,Continue
