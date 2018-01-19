@@ -88,3 +88,14 @@ EventTakeSearch2P1.text,Draw a search card and discard this token.
 EventTakeSearch2P1.button1,Continue
 Event1_Reinforcement.button1,Continue
 Event1_Reinforcement.text,Place 1 Goblin Archer on the entrance, respecting group limits.
+Event2_Intro1.text,As your eyes adjust to the dimness, you realize that you are tripping over the items stolen from the caravan the previous day. The goblins have stored their treasures here. Perhaps you can retrieve some of the more valuable items for the monastery.\n\nThe door at the bottom of the stairs opens and a man steps out, followed by an entourage of goblins. "Deliver this to your lady," he says, handing a scroll to one of the minions beside him.
+Event2_Intro1.button1,Continue
+Event0.text,Yes, Lord Merick," the goblin replies. "Well, hello there," Merick says when he sees you. "You're too late, but please come in. I was just about to clean up." His body ignites, wreathed in red, unnatural flames.\n\nHe releases a stream of flame and the goblins loose their bows. You dive for cover and fail to notice the messenger sprinting for the exit. Merick retreats and shuts the door, but you hear another explosion from the room beyond. The walls shift and shed a layer of stone. You don't have much time
+Event0.button1,Continue
+Event2_PlaceTiles1.text,Place tiles 19B, 1 entrance and 1 door as shown.
+Event2_PlaceTiles1.button1,Continue
+Spawn2_Goblins.text,Place a group of Goblin Archers on 19B.
+Spawn2_Goblins.button1,Continue
+EventObjective.text,Objective: Find the stolen treasuer and escape the ruins, before the pillars is destroyed.
+EventObjective.button1,Start Game
+EventIntro1.button2,TEST Encounter2
