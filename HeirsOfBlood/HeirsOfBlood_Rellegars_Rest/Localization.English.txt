@@ -1,0 +1,211 @@
+.,English
+quest.name,Heirs of Blood - Act 1 - Rellegar's Rest
+quest.description,Heirs of Blood - Act 1 - Rellegar's Rest
+quest.authors,Mick
+Spawn1_GoblinArchers.text,Place a group of Goblin Archers on 6A.
+Event1_Intro1.button1,Continue
+Event1_Intro1.button2,TEST Encounter2
+Event1_Intro2.button1,Continue
+Event1_Intro3.text,Think you can challenge Splig. King of AII Goblins?" he yells, moving toward the river. "Well, good luck getting in there without the key!" With that, he winds his arm back and heaves the key into the water, but his attempt falls pitifully short. The key plops into the shallows along the banks, and you think you can see it glinting beneath the water. His minions grow quiet and turn toward the fat goblin.\n\n"Oh, forget that. Get 'em'" Splig screams, hefting his club to his shoulder
+Event1_Intro3.button1,Continue
+Event1_TakeSearch2P1.text,Draw a search card and discard this token.
+Event1_SetAside.text,Set aside tile 3, 6, 12, 18 and 21
+Event1_SetAside.button1,Continue
+Event1_PlaceHeroes.text,Place heroes adjacent to the indicated space.
+Event1_PlaceHeroes.button1,Continue
+Event1_PlaceTiles.button1,Continue
+Spawn1_GoblinArchers.button1,Continue
+Event1_PlaceSearch2P1.button1,Continue
+Event1_PlaceSearch2P1.text,Place 1 search token as shown.
+Event1_Objective.text,Objective: Find the key and run for the exit.
+Event1_Objective.button1,Start Game
+Event1_PlaceObjToken.text,Collect 4 blue and 1 red objective token and place them random and secretly as shown.
+Event1_PlaceObjToken.button1,Continue
+Event1_DefeatSplig.text,Splig falls to one knee, breathing heavily, "You haven't defeated me-"he pauses to catch his breath, "Splig, King of All Goblins. I'll be back!" He pushes the nearest goblin toward you as a distraction, then turns and runs.
+Event1_PlaceTiles.text,Place tiles 3A, 6A, 12A, 18A, 21A, 1 Entrance, 1 Exit, 1 locked door and 1 End cap as shown.
+Spawn1_Open.text,Place a {c:Spawn1_Open} group on 12A.
+Spawn1_Splig.text,Place Splig on the indicated space.
+Spawn1_Splig.button1,Continue
+Event1_PlaceSearch2P2.text,Place 1 search token as shown.
+Token1_Search2P1.button1,Search
+Event1_PlaceSearch3P.button1,Continue
+Event1_PlaceSearch3P.text,Place 1 search token as shown.
+Event1_PlaceSearch4P.button1,Continue
+Event1_PlaceSearch2P2.button1,Continue
+Event1_PlaceSearch4P.text,Place 1 search token as shown.
+Door1_Exit.button1,Yes
+Door1_Exit.button2,No
+Token1_Obj1.text,What color is the token?
+Door1_Exit.text,Is the hero carrying the key adjacent to the door?
+Token1_Obj1.button1,Blue
+Token1_Obj1.button2,Red
+Event1_GotTheKey.text,You found the key.
+Event1_GotTheKey.button1,Continue
+Event1_NotTheKey.text,You found nothing. \nKeep searching.
+Event1_NotTheKey.button1,Continue
+Token1_Obj2.text,What color is the token?
+Token1_Obj2.button1,Blue
+Token1_Obj3.text,What color is the token?
+Token1_Obj3.button1,Blue
+Token1_Obj4.text,What color is the token?
+Token1_Obj4.button1,Blue
+Token1_Obj5.text,What color is the token?
+Token1_Obj5.button1,Blue
+Token1_Obj2.button2,Red
+Token1_Obj3.button2,Red
+Token1_Obj4.button2,Red
+Token1_Obj5.button2,Red
+Event1_Victory.text,The goblins are desperate to stop your progress, but they fall quickly before your onslaught. You approach the door with the key and enter the dark ruins.
+Event1_Victory.button1,Continue
+Event1_WhipeTheBoard.text,Get ready for next encounter.
+Event1_WhipeTheBoard.button1,Begin next encounter
+Event1_NoMorale.text,Defeat!
+Event1_OverlordWin.button1,Continue
+Event2_Objective.text,Objective: Find the stolen treasure and escape the ruins, before the pillars collapse.
+Event1_NoMorale.button1,Continue
+Event1_DefeatFatique.button1,Continue
+Event1_DefeatFatique.text,Defeat!
+Token1_Search2P1.text,In the high grass you spot a bag.
+Token1_Search3P.text,In the mud you glimpse something shiny.
+Token1_Search3P.button1,Search
+Token1_Search2P2.text,You spot a  small box in the grass.
+Token1_Search2P2.button1,Search
+Token1_Search4P.text,You spot a buried bag in some wet mud.
+Token1_Search4P.button1,Search
+Event1_TakeSearch4P.text,Draw a search card and discard this token.
+Event1_TakeSearch2P2.button1,Continue
+Event1_DefeatSplig.button1,Continue
+Event1_TakeSearch4P.button1,Continue
+Event1_TakeSearch3P.button1,Continue
+Event1_OverlordWin.text,Goblins appear from every direction to halt your progress. You, clothes become soiled with the creatures' blood and still they come. At last, you hack your way to the door and enter the dank ruins.
+Event1_TakeSearch2P1.button1,Continue
+Event1_TakeSearch3P.text,Draw a search card and discard this token.
+Event1_Reinforcement.button1,Continue
+Event1_Reinforcement.text,Place 1 Goblin Archer on the entrance, respecting group limits.
+Event2_Intro1.text,As your eyes adjust to the dimness, you realize that you are tripping over the items stolen from the caravan the previous day. The goblins have stored their treasures here. Perhaps you can retrieve some of the more valuable items for the monastery.\n\nThe door at the bottom of the stairs opens and a man steps out, followed by an entourage of goblins. "Deliver this to your lady," he says, handing a scroll to one of the minions beside him.
+Event2_Intro1.button1,Continue
+Event2_Intro2.button1,Continue
+Event2_PlaceHeroes.text,Place heroes adjacent to the indicated space.
+Event2_PlaceTiles1.text,Place tiles 19B, 1 entrance, 1 pillar token and 1 door as shown.
+Event2_PlaceTiles1.button1,Continue
+Spawn2_Goblins.text,Place a group of Goblin Archers on 19B.
+Spawn2_Goblins.button1,Continue
+Event2_Objective.button1,Start Game
+Event1_TakeSearch2P2.text,Draw a search card and discard this token.
+Event1_Intro2.text,Oh, I know heroes when I see them. "a great, fat goblin calls. "Quick, go warn Lord Merick that we got company, "he says, grabbing a smaller goblin by the scruff of the neck. He tosses the puny creature into the crumbling ruins and locks the door behind him
+Event1_Intro1.text,You leave camp before dawn to hunt the small band of goblins that ambushed you the day before. You pick up their trail and follow it into the late afternoon. In a clearing ahead of you, a handful of goblins are engaged in a game that involves lots of running, screaming, and throwing of rocks.  You attempt to sneak forward, but a voice calls down from the ridge to your right.
+Event2_Intro2.text,Yes, Lord Merick," the goblin replies. "Well, hello there," Merick says when he sees you. "You're too late, but please come in. I was just about to clean up." His body ignites, wreathed in red, unnatural flames.\n\nHe releases a stream of flame and the goblins loose their bows. You dive for cover and fail to notice the messenger sprinting for the exit. Merick retreats and shuts the door, but you hear another explosion from the room beyond. The walls shift and shed a layer of stone. You don't have much time
+Event2_PlaceHeroes.button1,Continue
+Door2_Entrance.text,Open door?
+Door2_Entrance.button1,Open
+Event2_PlaceTiles2.text,Place tile 3B, 25B, 2 doors and 2 pillars as shown.
+Event2_PlaceTiles2.button1,Continue
+Event2_SetAside.text,Set aside tile 3, 13, 19, 21 and 24.
+Event2_SetAside.button1,Continue
+Spawn2_Open.text,Place a {c:Spawn2_Open} group on 3B. 
+Spawn2_Open.button1,Continue
+Door2_Waterway.text,Open door?
+Door2_Waterway.button1,Open
+Event2_PlaceTiles3.button1,Continue
+Event2_PillarAdd24B.button1,Button1
+EventPlaceObjective.text,Place 1 white, 1, green and 2 red objective tokens secret and randomly as shown.
+EventPlaceObjective.button1,Continue
+Token2_Objective1.text,Reveal the objective token?
+Token2_Objective1.button1,Yes
+EventObjectiveCheck.text,What color is the revealed objective token?
+EventObjectiveCheck.button1,Green
+EventObjectiveCheck.button2,Red
+EventObjectiveCheck.button3,White
+Event2_ObjGreen.text,Test {awareness}.
+Event2_ObjGreen.button1,Pass
+Event2_ObjGreen.button2,Fail
+Event2_GreenPass.button1,Continue
+Event2_GreenFail.text,Move the figure to the indicated space and replace the green ojective token.
+Event2_GreenFail.button1,Continue
+Event2_RedPass.text,Nothing happends, replace the red objective token.
+Event2_ObjRed.text,Test {knowledge}.
+Event2_ObjRed.button1,Pass
+Event2_ObjRed.button2,Fail
+Event2_GreenPass.text,Nothing happends, replace the green objective token.
+Event2_RedPass.button1,Continue
+Event2_RedFail.text,Reshuffle all 4 objective tokens, so no players knows the order.
+Event2_RedFail.button1,Continue
+Event2_ObjWhite.text,You found the Staff. You are now carrying the "Staff of Light". Place this token on your base. If a figure carrying the staff is defeated, place the token adjacent to the player. As an action, a figure adjacent to the white objective token, may pick it up.
+Event2_ObjWhite.button1,Continue
+Token2_Objective3.text,Reveal the objective token?
+Token2_Objective3.button1,Yes
+Token2_Objective4.text,Reveal the objective token?
+Token2_Objective4.button1,Yes
+Token2_Objective2.text,Reveal the objective token?
+Token2_Objective2.button1,Yes
+Door2_Library.text,Open door?
+Door2_Library.button1,Open
+Event2_PlaceTiles4.button1,Continue
+Event2_PlaceSearch3P.text,Place 1 search token as shown.
+Event2_PlaceTiles4.text,Place tile 13B, 1 pillar and 1 End cap as shown.
+Event2_PlaceSearch3P.button1,Continue
+Event2_PlaceSearh2P1.text,Place 1 search token as shown.
+Event2_PlaceSearh2P1.button1,Continue
+Event2_PlaceSearch2P2.button1,Continue
+Event2_PlaceSearch4P.text,Place 1 search token as shown.
+Event2_PlaceSearch2P2.text,Place 1 search token as shown.
+Event2_PlaceSearch4P.button1,Continue
+Spawn2_Merick.button1,Continue
+Spawn2_Merick.text,Place Lord Merick on 13B.
+Token2_SearchUnique1.text,A bag is laying on the library floor.
+Token2_SearchUnique1.button1,Search
+Event2_FoundTreasure1.button1,Continue
+Event2_FoundTreasure2.button1,Continue
+Token2_SearchUnique2.text,A bag is laying on the library floor.
+Token2_SearchUnique2.button1,Search
+Token2_SearchUnique3.text, A bag is laying on the library floor.
+Token2_SearchUnique3.button1,Search
+Token2_Search3P.text,You see a box under some papers on the floor.
+Token2_Search3P.button1,Search
+Event2_SearchFound.text,Draw a search card and discard this token.
+Event2_SearchFound.button1,Continue
+Event2_FoundTreasure1.text,You found the stolen treasure. Run for the exit.
+Event2_FoundTreasure3.button1,Continue
+Event2_FoundTreasure2.text,You found the stolen treasure. Run for the exit.
+Event2_FoundTreasure3.text,You found the stolen treasure. Run for the exit.
+Event2_MerickPillarCheck.text,Is Merick adjacent to any support pillar?
+Event2_MerickPillarCheck.button1,No
+Event2_MerickPillarCheck.button2,Yes, 19B
+Event2_MerickPillarCheck.button3,Yes, 24B
+Event2_MerickPillarCheck.button4,Yes, 3B
+Event2_MerickPillarCheck.button5,Yes, 13B
+Event2_PlaceTiles3.text,Place tile 21B and 1 End cap as shown.
+Event2_Pillar1Remove.text,Support pillar on 19B has collapsed, remove pillar token.
+Event2_Pillar1Remove.button1,Continue
+Event2_AddRandomPillar.button1,Button1
+Event2_PillarAdd3B.button1,Button1
+Event2_Pillar4Remove.text,Support pillar on 24B has collapsed, remove pillar token.
+Event2_Pillar4Remove.button1,Continue
+Event2_PillarAdd19B.button1,Button1
+Event2_Pillar2Remove.text,Support pillar on 3B has collapsed, remove pillar token.
+Event2_Pillar2Remove.button1,Continue
+Event2_PillarAdd13B.button1,Button1
+Event2_Pillar3Remove.text,Support pillar on 13B has collapsed, remove pillar token.
+Event2_Pillar3Remove.button1,Continue
+Event2_OverlordWin.text,The torches disappear as the walls crumble apart, and the sunlight from the entrance is gone. Unseen slabs of stone strike you from every angle and press you into the floor and each other. In a few moments the roar ends, but many long minutes pass before the dust settles.\n\nBy means of great strength and magic, you navigate your way upward through the chaotic maze of stones. First you notice a dimness, then the air seems almost breathable. At last, through the shifting of a great boulder, the rays of a setting sun welcome you back to the land of the living.
+Event2_OverlordWin.button1,Continue
+EventAllPillarsDownCheck.text,All pillars have collapsed.
+EventAllPillarsDownCheck.button1,Continue
+Event2_RewardsLoose.text,Each hero receive 1 XP.\nIf the heroes is carrying the staff, the heroes keep the "Staff of Shadows" relic. \n\nNext quest is chosen by the Overlord.
+Event2_RewardsLoose.button1,Continue
+EventBloodWillTell.button1,Start Quest
+EventTheBaronReturns.text,The Baron Returns
+EventBloodWillTell.text,Blood Will Tell
+EventTheBaronReturns.button1,Start Quest
+Event0.button1,Continue
+Event0.text,Defeat!
+Event2_Reinforcement.text,Place 1 Goblin Archer on the entrance. Respecting group limits.
+Event2_Reinforcement.button1,Continue
+Door2_Exit.button1,Exit
+EventVictory.text,The ceiling shatters into dust and great slabs of rock, both raining down around you. You clutch the treasuus close to your chest and run toward the thin shafts of light that signal your exit. Against all odds, you break from the avalanche of stone and escape into the forest.\n\nYou doubt the mage lies dead beneath the rubble. He has retrieved the information he came for and then buried your ability to discover the same.
+EventVictory.button1,Continue
+EventNextQuest.text,Choose next quest
+EventNextQuest.button1,Blood Will Tell
+EventNextQuest.button2,The Baron Returns
+Door2_Exit.text,You made the exit in time.
+Spawn1_Open.button1,Continue
