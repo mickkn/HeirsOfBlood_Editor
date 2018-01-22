@@ -197,10 +197,8 @@ EventBloodWillTell.button1,Start Quest
 EventTheBaronReturns.text,The Baron Returns
 EventBloodWillTell.text,Blood Will Tell
 EventTheBaronReturns.button1,Start Quest
-Event0.button1,Continue
-Event0.text,Defeat!
-Event2_Reinforcement.text,Place 1 Goblin Archer on the entrance. Respecting group limits.
-Event2_Reinforcement.button1,Continue
+Event2_NoMorale.text,Defeat!
+Spawn2_Reinforcement.text,Place 1 Goblin Archer on the entrance. Respecting group limits.
 Door2_Exit.button1,Exit
 EventVictory.text,The ceiling shatters into dust and great slabs of rock, both raining down around you. You clutch the treasuus close to your chest and run toward the thin shafts of light that signal your exit. Against all odds, you break from the avalanche of stone and escape into the forest.\n\nYou doubt the mage lies dead beneath the rubble. He has retrieved the information he came for and then buried your ability to discover the same.
 EventVictory.button1,Continue
@@ -209,3 +207,14 @@ EventNextQuest.button1,Blood Will Tell
 EventNextQuest.button2,The Baron Returns
 Door2_Exit.text,You made the exit in time.
 Spawn1_Open.button1,Continue
+Spawn2_Merick19B.text,Lord Merick resurrected adjacent to this support pillar on 19B.
+Spawn2_Merick19B.button1,Continue
+Spawn2_Merick3B.text,Lord Merick resurrected adjacent to this support pillar on 3B.
+Spawn2_Merick24B.button1,Continue
+Spawn2_Merick13B.button1,Continue
+Spawn2_Merick24B.text,Lord Merick resurrected adjacent to this support pillar on 24B.
+Spawn2_Merick13B.text,Lord Merick resurrected adjacent to this support pillar on 13B.
+Spawn2_Merick3B.button1,Continue
+Event2_NoMorale.button1,Continue
+Spawn2_Reinforcement.button1,Continue
+Event2_MerickResurrect.button1,Button1

@@ -79,3 +79,4 @@ EventRewardsWin.button1,Continue
 EventRewardsLose.text,Each player receives 1 XP\nHeores discard all but 1 villager token, and receives 25 gold for that villager token.
 EventRewardsLose.button1,Continue
 SpawnReinforcement.button1,Continue
+Activation0.ability,-
